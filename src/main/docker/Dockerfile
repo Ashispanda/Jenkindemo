@@ -2,7 +2,7 @@ FROM centos:latest
 
 MAINTAINER Deepak Panda - ./build_centos.sh
 
-# Set correct environment variables.
+# Set correct environment variable.
 ENV	HOME /root
 ENV	LANG en_US.UTF-8
 ENV	LC_ALL en_US.UTF-8
